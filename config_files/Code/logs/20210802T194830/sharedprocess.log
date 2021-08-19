@@ -1,0 +1,11 @@
+[2021-08-02 19:48:46.056] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-08-02 19:48:46.058] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210727T182829, 20210729T031826, 20210729T031840, 20210729T032703, 20210729T033038, 20210729T033039, 20210729T033040, 20210729T033042, 20210729T034037, 20210729T034330, 20210729T035037, 20210729T040038, 20210729T041037, 20210729T042038, 20210729T043038, 20210729T044038, 20210729T045037, 20210730T063505, 20210730T064450, 20210730T065450, 20210730T070450, 20210730T071450, 20210730T072450, 20210730T073450, 20210730T074237'
+[2021-08-02 19:49:06.051] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-08-02 19:49:06.051] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-08-02 19:49:12.315] [sharedprocess] [info] Installing extension: nico-castell.linux-desktop-file
+[2021-08-02 19:49:13.636] [sharedprocess] [info] Downloaded extension: nico-castell.linux-desktop-file /home/vicyos/.config/Code/CachedExtensionVSIXs/nico-castell.linux-desktop-file-0.0.18
+[2021-08-02 19:49:13.693] [sharedprocess] [info] Extracted extension to /home/vicyos/.vscode/extensions/.a15be34d-70a1-4045-905c-1bb64579dcab: nico-castell.linux-desktop-file
+[2021-08-02 19:49:13.740] [sharedprocess] [info] Renamed to /home/vicyos/.vscode/extensions/nico-castell.linux-desktop-file-0.0.18
+[2021-08-02 19:49:13.741] [sharedprocess] [info] Installation completed. nico-castell.linux-desktop-file
+[2021-08-02 19:49:13.766] [sharedprocess] [info] Extensions installed successfully: nico-castell.linux-desktop-file
+[2021-08-02 19:49:16.051] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

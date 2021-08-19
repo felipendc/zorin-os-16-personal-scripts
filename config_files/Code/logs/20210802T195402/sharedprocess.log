@@ -1,0 +1,28 @@
+[2021-08-02 19:54:04.375] [sharedprocess] [info] Deleted from disk nico-castell.linux-desktop-file /home/vicyos/.vscode/extensions/nico-castell.linux-desktop-file-0.0.18
+[2021-08-02 19:54:14.215] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-08-02 19:54:14.216] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210801T174645, 20210801T175059, 20210801T180044'
+[2021-08-02 19:54:16.809] [sharedprocess] [info] Detected extension installed from another source nico-castell.linux-desktop-file
+[2021-08-02 19:54:34.216] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-08-02 19:54:34.217] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-08-02 19:54:44.216] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-08-02 20:09:13.820] [sharedprocess] [info] Detected extension installed from another source erikphansen.vscode-toggle-column-selection
+[2021-08-02 20:09:19.097] [sharedprocess] [info] Detected extension installed from another source ritwickdey.liveserver
+[2021-08-02 20:09:22.896] [sharedprocess] [info] Detected extension installed from another source digitalbrainstem.javascript-ejs-support
+[2021-08-02 20:09:24.870] [sharedprocess] [info] Detected extension installed from another source dbaeumer.vscode-eslint
+[2021-08-02 20:09:30.495] [sharedprocess] [info] Detected extension installed from another source hex-ci.stylelint-plus
+[2021-08-02 20:09:34.232] [sharedprocess] [info] Detected extension installed from another source formulahendry.auto-close-tag
+[2021-08-02 20:09:39.665] [sharedprocess] [info] Detected extension installed from another source esbenp.prettier-vscode
+[2021-08-02 20:09:44.270] [sharedprocess] [info] Detected extension installed from another source batisteo.vscode-django
+[2021-08-02 20:09:44.271] [sharedprocess] [info] Detected extension installed from another source magicstack.magicpython
+[2021-08-02 20:09:44.271] [sharedprocess] [info] Detected extension installed from another source visualstudioexptteam.vscodeintellicode
+[2021-08-02 20:09:44.271] [sharedprocess] [info] Detected extension installed from another source wholroyd.jinja
+[2021-08-02 20:09:45.312] [sharedprocess] [info] Detected extension installed from another source donjayamanne.python-extension-pack
+[2021-08-02 20:09:48.367] [sharedprocess] [info] Detected extension installed from another source almenon.arepl
+[2021-08-02 20:09:50.819] [sharedprocess] [info] Detected extension installed from another source pkief.material-icon-theme
+[2021-08-02 20:09:57.172] [sharedprocess] [info] Detected extension installed from another source dart-code.dart-code
+[2021-08-02 20:09:59.730] [sharedprocess] [info] Detected extension installed from another source naumovs.color-highlight
+[2021-08-02 20:10:01.696] [sharedprocess] [info] Detected extension installed from another source akamud.vscode-theme-onedark
+[2021-08-02 20:10:03.437] [sharedprocess] [info] Detected extension installed from another source dart-code.flutter
+[2021-08-02 20:10:06.075] [sharedprocess] [info] Detected extension installed from another source alexisvt.flutter-snippets
+[2021-08-02 20:10:15.002] [sharedprocess] [info] Detected extension installed from another source gruntfuggly.todo-tree
+[2021-08-02 20:10:18.161] [sharedprocess] [info] Detected extension installed from another source will-stone.plastic

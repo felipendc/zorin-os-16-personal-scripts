@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "editor.fontSize": 15,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "tabnine.experimentalAutoImports": true,
+    "workbench.iconTheme": "material-icon-theme"
+}

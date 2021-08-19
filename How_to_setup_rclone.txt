@@ -1,0 +1,57 @@
+
+ONEDRIVE SHARED FOLDER
+
+Step 1:
+rclone config
+
+After finishing the step 1...
+
+Step 2:
+mkdir ~/onedrive
+
+Step 3:
+rclone --vfs-cache-mode writes mount onedrive: ~/onedrive
+
+Step 4:
+Create a startup application on ubuntu with this command:
+rclone --vfs-cache-mode writes mount onedrive: ~/onedrive
+
+
+# Startup application form:
+
+Name: ONEDRIVE
+Command: sh -c "rclone --vfs-cache-mode writes mount onedrive: ~/onedrive"
+Comment: This will mount the OneDrive Folder when I boot up the system.
+
+
+#############################################################################
+
+GOOGLE DRIVE SHARED FOLDER
+
+Step 1:
+rclone config
+
+After finishing the step 1...
+
+Step 2:
+mkdir ~/gdrive
+
+Step 3:
+rclone --vfs-cache-mode writes mount gdrive: ~/gdrive
+
+Step 4:
+Create a startup application on ubuntu with this command:
+rclone --vfs-cache-mode writes mount gdrive: ~/gdrive
+
+
+# Startup application form:
+
+Name: GDRIVE
+Command: sh -c "rclone --vfs-cache-mode writes mount gdrive: ~/gdrive"
+Comment: This will mount the Google Drive Folder when I boot up the system.
+
+
+
+
+
+...
