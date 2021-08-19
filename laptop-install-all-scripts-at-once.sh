@@ -6,6 +6,17 @@
 sudo apt-get update
 sudo apt-get upgrade
 
+### ADDING A PPA TO INSTALL PYTHON: ###
+sudo add-apt-repository ppa:deadsnakes/nightly
+sudo apt update
+
+# Installing do Pyhon3:
+sudo apt install python3.11 -y
+sudo apt install python3.10 -y
+
+# Setting up the default Python version:
+#sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.9 1
+
 
 #### Vicyos Personal packages: ####
 
@@ -93,7 +104,7 @@ cd ../
 cd ubuntu-personal-bashrc && sudo cp -r .bashrc* ~/ && cd ../
 
 # Installing Google-Chrome Browser:
-#cd random && sudo apt install ./google-chrome-stable_current_amd64.deb -y --allow-downgrades && cd ../
+cd random && sudo apt install ./google-chrome-stable_current_amd64.deb -y --allow-downgrades && cd ../
 
 # Installing Visual Studio Code:
 cd random && sudo apt install ./code*.deb -y --allow-downgrades && cd ../
