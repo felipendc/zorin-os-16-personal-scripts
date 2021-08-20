@@ -57,13 +57,20 @@ EOF
 sudo cp -R $(pwd)/firedm.desktop /usr/share/applications/firedm.desktop
 
 # Copying the icon to its proper folder
-icon_folder="~/.local/share/icons/hicolor/48x48/apps/"
+icon_folder="~/.local/share/icons/hicolor/48x48/apps"
 if [ ! -d "$icon_folder" ]; then 
     mkdir -p $icon_folder
 fi
 
-cp -R ../icons/48x48.png ~/.local/share/icons/hicolor/48x48/apps/firedm.png
-sudo cp -R ../icons/48x48.png /usr/share/pixmaps/firedm.png
+# cp -R ../icons/firedm.png ~/.local/share/icons/hicolor/48x48/apps/firedm.png
+# sudo cp -R ../icons/firedm.png /usr/share/icons/hicolor/48x48/apps/firedm.png
+
+cp -R ../icons/firedm.png ~/.local/share/icons/hicolor/48x48/apps/firedm.png
+sudo cp -R ../icons/firedm.png /usr/share/pixmaps/iredm.png
+
+# Updating the icons cache:
+sudo gtk-update-icon-cache /usr/share/icons/hicolor/
+sudo gtk-update-icon-cache
 
 # Going back to the parent folder
 cd ../
