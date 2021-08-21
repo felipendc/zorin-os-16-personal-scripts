@@ -1,11 +1,46 @@
 Source: https://securitronlinux.com/debian-testing/install-mac-osx-fonts-on-linux-easily/
 Font download link: https://developer.apple.com/fonts/
 
-7z x SF-Mono.dmg
 
+
+#Unpacking SF Pro :
+
+7z x SF-Pro.dmg
+ cd SanFranciscoPro/
+ 7z x San\ Francisco\ Pro.pkg
+ 7z x Payload~
+
+
+#Unpacking SF-Mono :
+
+7z x SF-Mono.dmg
  cd SFMonoFonts/
- 
  7z x SF\ Mono\ Fonts.pkg
- 
  7z x Payload~
  
+ 
+#Unpacking SF-Compact :
+
+7z x SF-Compact.dmg
+ cd SanFranciscoCompact/
+ 7z x San\ Francisco\ Compact.pkg
+ 7z x Payload~
+ 
+ 
+#Unpacking SF-Arabic :
+
+7z x SF-Arabic.dmg
+ cd SanFranciscoCompact/
+ 7z x SF\ Arabic\ Fonts.pkg
+ 7z x Payload~
+ 
+ 
+#Unpacking SF-Arabic :
+
+7z x NY.dmg
+ cd NYFonts/
+ 7z x NY\ Fonts.pkg
+ 7z x Payload~
+ 
+ 
+
