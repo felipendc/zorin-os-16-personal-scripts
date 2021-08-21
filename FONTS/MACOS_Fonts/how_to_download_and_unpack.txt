@@ -1,0 +1,10 @@
+Source: https://securitronlinux.com/debian-testing/install-mac-osx-fonts-on-linux-easily/
+
+7z x SF-Mono.dmg
+
+ cd SFMonoFonts/
+ 
+ 7z x SF\ Mono\ Fonts.pkg
+ 
+ 7z x Payload~
+ 
