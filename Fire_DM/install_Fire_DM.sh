@@ -26,20 +26,12 @@ sudo apt install -y \
 
 # Installing FireDM
 python3 -m pip install firedm --user --upgrade --no-cache
-
 sudo cp -R $(pwd)/firedm.desktop /usr/share/applications/firedm.desktop
 
+
 # Copying the icon to its proper folder
-icon_folder="~/.local/share/icons/hicolor/48x48/apps"
-if [ ! -d "$icon_folder" ]; then 
-    mkdir -p $icon_folder
-fi
-
-# cp -R icons/firedm.png ~/.local/share/icons/hicolor/48x48/apps/firedm.png
-# sudo cp -R icons/firedm.png /usr/share/icons/hicolor/48x48/apps/firedm.png
-
-cp -R icons/firedm.png ~/.local/share/icons/hicolor/48x48/apps/firedm.png
 sudo cp -R icons/firedm.png /usr/share/pixmaps/firedm.png
+
 
 # Updating the icons cache:
 sudo gtk-update-icon-cache /usr/share/icons/hicolor/
