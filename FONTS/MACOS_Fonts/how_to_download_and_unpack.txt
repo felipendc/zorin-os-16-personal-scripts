@@ -1,4 +1,5 @@
 Source: https://securitronlinux.com/debian-testing/install-mac-osx-fonts-on-linux-easily/
+Font download link: https://developer.apple.com/fonts/
 
 7z x SF-Mono.dmg
 
