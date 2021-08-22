@@ -41,8 +41,9 @@ sudo apt install pyhton3 -y
 sudo apt install python3-pip -y
 sudo apt install python-pip -y
 sudo apt install winff -y
-sudo apt install adb 
-sudo apt install fastboot 
+sudo apt install adb -y
+sudo apt install fastboot -y
+sudo apt install grub-customizer -y
 
 
 ############# FLATHUB PACKAGES ################
