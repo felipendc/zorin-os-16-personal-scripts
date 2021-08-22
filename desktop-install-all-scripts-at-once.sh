@@ -50,7 +50,7 @@ sudo flatpak install flathub -y com.obsproject.Studio
 sudo flatpak install -y flatpak/com.discordapp.Discord.flatpakref
 sudo flatpak install -y flatpak/net.codeindustry.MasterPDFEditor.flatpakref
 sudo flatpak install -y flatpak/org.gimp.GIMP.flatpakref
-sudo flatpak install -y flatpak/org.kde.kdenlive.flatpakref
+# sudo flatpak install -y flatpak/org.gimp_stable.GIMP.flatpakrefsudo flatpak install -y flatpak/org.kde.kdenlive.flatpakref
 sudo flatpak install -y flatpak/org.kde.krita.flatpakref
 sudo flatpak install -y flatpak/org.qbittorrent.qBittorrent.flatpakref
 sudo flatpak install -y flatpak/org.telegram.desktop.flatpakref
